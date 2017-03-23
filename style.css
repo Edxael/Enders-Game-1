@@ -2,7 +2,7 @@ body{
     /*background-color: rgb(106, 191, 238);*/
     background-image: url("IMG/back3f.jpg");
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    /*background-size: auto 100%;*/
     background-attachment: fixed;
 }
 h1{
